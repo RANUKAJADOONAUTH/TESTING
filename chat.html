@@ -1,0 +1,100 @@
+<!--Chat: Conversation Classes-->
+<div class="chat-convo-container" id="chat-convo-@Model.RelationshipID" onload="ResizeChatBox(@Model.RelationshipID)">
+    <div class="chat-convo-header" style="background-color:#555" ondblclick="HideChatConvo('chat-convo-@Model.RelationshipID')">
+
+        @Html.Action("LilMessagePic", "Images", new { IDtargetuser = @Model.TargetUser.UserID })
+        <h4 class="name-header">@Model.TargetUser.Name</h4>
+        @if ((int)Model.relationshipStatus == 4)
+        {
+            <i class="fa fa-user-plus add-user-friend" onclick="AddFriend('@Model.TargetUser.UserID')"></i>
+        }
+        <i class="fa fa-close close-icon" onclick="RemoveElement(@Model.RelationshipID)"></i>
+    </div>
+
+    @* Time stamps now print after a minute has elapsed for every message. *@
+    <ul class="conversation" id="conversation-@Model.RelationshipID">
+
+      @{
+
+          string prevTimeStamp = null;
+          foreach (var message in Model.Messages)
+          {
+              string timeStamp = message.TimeStamp(message.DateTime);
+
+              if (prevTimeStamp != timeStamp)
+              {
+
+                <li class="date-time">@timeStamp</li>
+                <li>____________________________</li>
+              }
+
+              if (message.UserID == User.Identity.GetUserId())
+              {
+                <li><span class="current-user-message">@message.Content</span></li>
+              }
+              else
+              {
+                <li><span class="chat-partner-message">@message.Content</span></li>
+              }
+
+              prevTimeStamp = timeStamp;
+          }
+    }
+
+    </ul>
+    @Html.Editor("chat-user-input-" + Model.RelationshipID, new { htmlAttributes = new { @class = "chat-user-input", placeholder = "Message...", relID = Model.RelationshipID } })
+</div>
+<h4 class="target-user-tab" id="chat-convo-@Model.RelationshipID-tab" onclick="ShowChatConvo('chat-convo-@Model.RelationshipID')">@Model.TargetUser.Name</h4>
+<style>
+.current-user-message {
+    background-color: #91D0B2 !important;
+    color: #FDFDFD;
+    border: 1px solid #91D0B2 !important;
+    border-radius: 8px;
+    margin-right: 5px !important;
+    margin-bottom: 5px !important;
+    text-align: right;
+    font-size: 14px;
+    float: right;
+    clear: both;
+    max-width: 70%;
+    margin: 3px;
+    padding: 10px;
+    word-wrap: break-word;
+}
+
+.current-user-message:after {
+    content: "";
+    position: relative;
+    border-style: solid;
+    border-color: #91D0B2 transparent transparent transparent;
+    border-width: 8px 8px 0px 8px;
+    bottom: -32px;
+}
+
+.chat-partner-message {
+    background-color: #E9E9E9 !important;
+    color: #000; /*  #FDFDFD */
+    border: 1px solid #E9E9E9 !important;
+    border-radius: 8px;
+    margin-right: 5px !important;
+    margin-bottom: 5px !important;
+    text-align: left;
+    font-size: 14px;
+    float: left;
+    clear: both;
+    max-width: 70%;
+    margin: 3px;
+    padding: 10px;
+    word-wrap: break-word;
+}
+
+.chat-partner-message:after {
+    content: "";
+    position: relative;
+    border-style: solid;
+    border-color: #E9E9E9 transparent transparent transparent;
+    border-width: 8px 8px 0px 8px;
+    bottom: -32px;
+}
+</style>
