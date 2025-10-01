@@ -226,12 +226,4 @@ This project explores the rise of financial fraud in Guyana's oil and gas indust
 | 2022 | 107                      | 1.96 Billion    |
 | 2023 | 180                      | 153.3 Billion   |
 
-## 🏗️ How to Use
 
-1. Clone the repository
-2. Open `index.html` in your browser
-3. Customize content and styles as needed
-
-## 📄 License
-
-This project is licensed under the MIT License.
