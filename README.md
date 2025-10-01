@@ -34,7 +34,9 @@ The researcher aims to determine the extent of Financial Fraud in Small Business
     18. CNT_FAM_MEMBERS ---------	Family size
 
        "                  High         Low        Open       Close     Volume  \\\n",
-       "Date                                                                    \n",
+
+# Table showing the increase in Fraud of Small Businesses  
+   "Date                                                                    \n",
        "2020-02-20  118.110001  116.860001  117.209999  117.690002  5022900.0   \n",
        "2020-02-21  118.750000  117.309998  117.440002  118.580002  6242100.0   \n",
        "2020-02-24  118.459999  115.949997  117.459999  116.320000  6616000.0   \n",
