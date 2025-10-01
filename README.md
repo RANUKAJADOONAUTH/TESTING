@@ -8,17 +8,17 @@ Types of Financial Fraud / Malpractice in Guyana Oil & Gas
 
 # Types of Financial Fraud / Malpractice in Guyana Oil & Gas 
 
-## 🔍 Features
 
-- Clean HTML layout with structured sections
-- Styled tables showing key fraud statistics
-- Recommendations for legal and institutional reforms
-- Easy to customize or expand
 
-| Year | Suspicious Transactions | Value (GY$)     |
-|------|--------------------------|-----------------|
-| 2022 | 107                      | 1.96 Billion    |
-| 2023 | 180                      | 153.3 Billion   |
+| Financial Fraud                                       | Discription                                  |
+|-------------------------------------------------------|---------------------------------------------------------------------------------------------------------|-----------------|
+| Misreporting & Inflated Costs / Cost Recovery Abuse   |Access to full contracts (e.g. production sharing agreements), cost recovery schedules, audited financial statements of the oil companies and government partners.                    | 1.96 Billion    |
+| Misreporting & Inflated Costs / Cost Recovery Abuse   | 107                      | 1.96 Billion    |
+| Misreporting & Inflated Costs / Cost Recovery Abuse   | 107                      | 1.96 Billion    |
+| Misreporting & Inflated Costs / Cost Recovery Abuse   | 107                      | 1.96 Billion    |
+| Misreporting & Inflated Costs / Cost Recovery Abuse   | 107                      | 1.96 Billion    |
+| Misreporting & Inflated Costs / Cost Recovery Abuse   | 107                      | 1.96 Billion    |
+
 
 "Date                                                                    \n",
        "Misreporting & Inflated Costs / Cost Recovery Abuse Disputes over how much the oil companies have spent (the “cost bank”) that is recoverable as part of “cost oil”. Guyana’s Natural Resources Ministry has initiated audits (for example an audit covering 1999‑2017 recommended adjustment of ~$214 million in cost claims
