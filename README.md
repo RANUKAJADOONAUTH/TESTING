@@ -7,7 +7,20 @@ This project examines what kinds of financial fraud are increasing in Guyana’s
 Types of Financial Fraud / Malpractice in Guyana Oil & Gas
 
 # Types of Financial Fraud / Malpractice in Guyana Oil & Gas 
-   "Date                                                                    \n",
+
+## 🔍 Features
+
+- Clean HTML layout with structured sections
+- Styled tables showing key fraud statistics
+- Recommendations for legal and institutional reforms
+- Easy to customize or expand
+
+| Year | Suspicious Transactions | Value (GY$)     |
+|------|--------------------------|-----------------|
+| 2022 | 107                      | 1.96 Billion    |
+| 2023 | 180                      | 153.3 Billion   |
+
+"Date                                                                    \n",
        "Misreporting & Inflated Costs / Cost Recovery Abuse Disputes over how much the oil companies have spent (the “cost bank”) that is recoverable as part of “cost oil”. Guyana’s Natural Resources Ministry has initiated audits (for example an audit covering 1999‑2017 recommended adjustment of ~$214 million in cost claims
        Allegations that companies are claiming for non‑operational costs (e.g. PR, documentary production) under cost recovery. Example: a report alleging that Exxon used US$1.5 million of Guyana’s oil profits on films/documentary production, which auditors claim was not appropriate.
        \n",
