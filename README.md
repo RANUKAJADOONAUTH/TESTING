@@ -7,17 +7,14 @@ This project examines what kinds of financial fraud are increasing in Guyana’s
 Types of Financial Fraud / Malpractice in Guyana Oil & Gas
 
 # Types of Financial Fraud / Malpractice in Guyana Oil & Gas 
+Type of Fraud	Description
+Cost Recovery Abuse	Oil companies inflate their expenses to reduce how much profit Guyana gets.
+Lack of Financial Transparency	Companies don't clearly report how much money they make or owe to Guyana.
+Corrupt Licensing Practices	Oil licenses are awarded unfairly, often to friends or political allies.
+Political Elite Capture	Powerful individuals benefit more from oil deals than the general public.
+Fake Training and Services	Fraudsters offer fake courses or services related to the oil sector.
 
 
-
-| Financial Fraud                                       | Discription                                  |
-|-------------------------------------------------------|---------------------------------------------------------------------------------------------------------|-----------------|
-| Misreporting & Inflated Costs / Cost Recovery Abuse   |Access to full contracts (e.g. production sharing agreements), cost recovery schedules, audited financial statements of the oil companies and government partners.                    | 1.96 Billion    |
-| Misreporting & Inflated Costs / Cost Recovery Abuse   | 107                      | 1.96 Billion    |
-| Misreporting & Inflated Costs / Cost Recovery Abuse   | 107                      | 1.96 Billion    |
-| Misreporting & Inflated Costs / Cost Recovery Abuse   | 107                      | 1.96 Billion    |
-| Misreporting & Inflated Costs / Cost Recovery Abuse   | 107                      | 1.96 Billion    |
-| Misreporting & Inflated Costs / Cost Recovery Abuse   | 107                      | 1.96 Billion    |
 
 
 "Date                                                                    \n",
