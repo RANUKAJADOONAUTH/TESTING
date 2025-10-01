@@ -13,17 +13,6 @@ Types of Financial Fraud / Malpractice in Guyana Oil & Gas
 4. Political Elite Capture - Powerful individuals benefit more from oil deals than the general public.
 5. Fake Training and Services - Fraudsters offer fake courses or services related to the oil sector.
    
-# Financial Fraud in Guyana's Oil and Gas Economy
-
-This project explores the rise of financial fraud in Guyana's oil and gas industry, looking at the causes, examples, evidence, and proposed solutions. The project is built as a static website using HTML/CSS and designed for educational, journalistic, or civic engagement purposes.
-
-## 🔍 Features
-
-- Clean HTML layout with structured sections
-- Styled tables showing key fraud statistics
-- Recommendations for legal and institutional reforms
-- Easy to customize or expand
-
 ## 📊 Sample Data (STRs)
 
 | Year | Suspicious Transactions | Value (GY$)     |
