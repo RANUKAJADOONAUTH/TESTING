@@ -1,5 +1,63 @@
-# To determine the Risk of Financial Fraud in Small Businesses in Guyana 
+# Rising Tides of Deception: Financial Fraud in Guyana’s Oil & Gas Economy
+
 # Introduction
+Guyana discovered significant oil reserves off its coast in 2015. Production began in 2019, particularly in the colossal Stabroek Block under a consortium led by ExxonMobil, along with Hess and China’s CNOOC. Oil revenues have since become a major component of Guyana’s economy.
+While oil can fuel development—building infrastructure, improving public services, reducing poverty—there is strong risk that fraud, corruption, and mismanagement will undermine those benefits. Without robust oversight, the very lucrativeness of oil projects can incentivize illicit or semi‑licit behavior (e.g. misreporting, cost inflation, undue political influence, non‑transparent contracting).
+This project examines what kinds of financial fraud are increasing in Guyana’s oil & gas sector, with case studies; identifies systemic vulnerabilities; evaluates existing legal and institutional frameworks; and proposes measures to reduce fraud and increase accountability.
+Types of Financial Fraud / Malpractice in Guyana Oil & Gas
+
+Here are some forms that seem especially prominent:
+
+Misreporting & Inflated Costs / Cost Recovery Abuse
+
+Disputes over how much the oil companies have spent (the “cost bank”) that is recoverable as part of “cost oil”. Guyana’s Natural Resources Ministry has initiated audits (for example an audit covering 1999‑2017 recommended adjustment of ~$214 million in cost claims. 
+Reuters
+
+Allegations that companies are claiming for non‑operational costs (e.g. PR, documentary production) under cost recovery. Example: a report alleging that Exxon used US$1.5 million of Guyana’s oil profits on films/documentary production, which auditors claim was not appropriate. 
+Kaieteur News
+
+Opacity / Weak or Misleading Financial Reporting
+
+Claims that while oil company co‑venturers report high profits, there is little transparency in how Guyana’s share (profit oil / royalties / taxes) is accounted for or paid. 
+Kaieteur News
++2
+Foreign Policy
++2
+
+Discrepancies between what is declared and what may actually be disbursed into the Natural Resource Fund or the Consolidated Fund. 
+Kaieteur News
++2
+Foreign Policy
++2
+
+Licensing & Contracting Irregularities
+
+The ministerial discretion in granting exploration or production licenses presents corruption risk. 
+Stabroek News
+
+Local content policies (requiring local firms or workers) can be subverted by fronting, favoritism, shell companies, or cronyism. 
+Stabroek News
++1
+
+Political / Elite Capture
+
+State capture by political and economic elites, leading to misappropriation of resource revenues or influencing contracts for personal gain. 
+Guyana Business Journal & Magazine
++3
+Kaieteur News
++3
+Stabroek News
++3
+
+Use of royalties, profit splitting, or government contracts for political ends. (Though detailed public documentation is sometimes lacking).
+
+Fraud & Scams in Supporting Sectors
+
+Fraudulent training courses: example of a person advertising STCW (maritime/seafarer certification) training, collecting fees under false pretences. 
+News Room Guyana
+
+Fraud around fuel supply, state enterprises: e.g. $300M fraud found around GuyOil / Guyana Defence Force fuel supply. 
+Stabroek News
 The researcher aims to determine the extent of Financial Fraud in Small Businesses in Guyana arising from poor account practices.
 Credit score cards are a common risk control method in the financial industry. It uses personal information and data submitted by credit card applicants to predict the probability of future defaults and credit card borrowings. The bank is able to decide whether to issue a credit card to the applicant. Credit scores can objectively quantify the magnitude of risk. 
 - In this project we are trying to build Machine Learning model to predict if an applicant is 'good' or 'bad' client i.e if applicat is 'Risky' or 'Not'. 
