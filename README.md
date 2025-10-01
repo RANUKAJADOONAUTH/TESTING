@@ -13,19 +13,22 @@ Types of Financial Fraud / Malpractice in Guyana Oil & Gas
 4. Political Elite Capture - Powerful individuals benefit more from oil deals than the general public.
 5. Fake Training and Services - Fraudsters offer fake courses or services related to the oil sector.
    
+## 📊 Sample Data (STRs)
 
+| Year | Suspicious Transactions | Value (GY$)     |
+|------|--------------------------|-----------------|
+| 2022 | 107                      | 1.96 Billion    |
+| 2023 | 180                      | 153.3 Billion   |
 
+## 🏗️ How to Use
 
+1. Clone the repository
+2. Open `index.html` in your browser
+3. Customize content and styles as needed
 
-"Date                                                                    \n",
-       "Misreporting & Inflated Costs / Cost Recovery Abuse Disputes over how much the oil companies have spent (the “cost bank”) that is recoverable as part of “cost oil”. Guyana’s Natural Resources Ministry has initiated audits (for example an audit covering 1999‑2017 recommended adjustment of ~$214 million in cost claims
-       Allegations that companies are claiming for non‑operational costs (e.g. PR, documentary production) under cost recovery. Example: a report alleging that Exxon used US$1.5 million of Guyana’s oil profits on films/documentary production, which auditors claim was not appropriate.
-       \n",
-       "2020-02-21  118.750000  117.309998  117.440002  118.580002  6242100.0   \n",
-       "2020-02-24  118.459999  115.949997  117.459999  116.320000  6616000.0   \n",
-       "2020-02-25  117.070000  114.050003  116.349998  114.389999  7764300.0   \n",
-       "2020-02-26  115.169998  113.650002  114.699997  113.779999  6673300.0   \n",
+## 📄 License
 
+This project is licensed under the MIT License.
 
 # Content & Explaination
 - - Generally speaking, credit score cards are based on historical data. Once encountering large economic fluctuations. Past models may lose their original predictive power. Logistic model is a common method for credit scoring. Because Logistic is suitable for binary classification tasks and can calculate the coefficients of each feature. In order to facilitate understanding and operation, the score card will multiply the logistic regression coefficient by a certain value (such as 100) and round it.
