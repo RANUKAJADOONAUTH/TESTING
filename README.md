@@ -33,7 +33,16 @@ The researcher aims to determine the extent of Financial Fraud in Small Business
     17. OCCUPATION_TYPE ---------	Occupation 	
     18. CNT_FAM_MEMBERS ---------	Family size
 
-2. Table 2
+       "                  High         Low        Open       Close     Volume  \\\n",
+       "Date                                                                    \n",
+       "2020-02-20  118.110001  116.860001  117.209999  117.690002  5022900.0   \n",
+       "2020-02-21  118.750000  117.309998  117.440002  118.580002  6242100.0   \n",
+       "2020-02-24  118.459999  115.949997  117.459999  116.320000  6616000.0   \n",
+       "2020-02-25  117.070000  114.050003  116.349998  114.389999  7764300.0   \n",
+       "2020-02-26  115.169998  113.650002  114.699997  113.779999  6673300.0   \n",
+       "\n",
+
+   2. Table 2
 
     1. ID ---------------	Client number 	
     2. MONTHS_BALANCE --- 	Record month ---- The month of the extracted data is the starting point, backwards, 0 is the current month, -1 is the previous month, and so on
