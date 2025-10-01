@@ -63,3 +63,175 @@ Credit score cards are a common risk control method in the financial industry. I
 # End Results
 - After all the possible experiments Maximum accuracy of **92.59%** is achieved by using **XGBoosting Classifier**.
 - Here our model correctly predicts whether we should approve Credit Card for Customer or not.
+guyana-oil-fraud/
+│
+├── index.html
+├── styles.css
+├── images/
+│   └── (optional images for charts or illustrations)
+├── README.md
+└── tables/
+    └── data_tables.md
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Financial Fraud in Guyana's Oil & Gas Economy</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header>
+    <h1>Financial Fraud in Guyana's Oil & Gas Economy</h1>
+    <p>An overview of rising concerns, causes, cases, and solutions.</p>
+  </header>
+
+  <section>
+    <h2>Introduction</h2>
+    <p>Guyana has become one of the world’s fastest-growing economies due to large oil discoveries. However, with this new wealth, the country has seen a rise in financial fraud and corruption in its oil and gas sector...</p>
+  </section>
+
+  <section>
+    <h2>Types of Financial Fraud</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Type of Fraud</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Cost Recovery Abuse</td>
+          <td>Inflating operational costs to reduce profit share owed to Guyana.</td>
+        </tr>
+        <tr>
+          <td>Lack of Transparency</td>
+          <td>Failure to publish clear financial statements and oil revenue data.</td>
+        </tr>
+        <tr>
+          <td>Corrupt Licensing</td>
+          <td>Political favoritism in awarding oil blocks and contracts.</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Evidence of Growing Fraud</h2>
+    <p>According to Guyana's FIU, the number of suspicious transactions increased by 68% between 2022 and 2023, with their value growing over 70-fold...</p>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Year</th>
+          <th>Number of STRs</th>
+          <th>Value (GY$)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>2022</td>
+          <td>107</td>
+          <td>1.96 Billion</td>
+        </tr>
+        <tr>
+          <td>2023</td>
+          <td>180</td>
+          <td>153.3 Billion</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Recommendations</h2>
+    <ul>
+      <li>Update legal and regulatory frameworks.</li>
+      <li>Publish all oil contracts and payments online.</li>
+      <li>Strengthen capacity of oversight institutions.</li>
+      <li>Protect whistleblowers and investigative journalists.</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Guyana Oil Fraud Report | Built for educational purposes</p>
+  </footer>
+
+</body>
+</html>
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f8f8;
+  color: #333;
+}
+
+header, footer {
+  background-color: #004d66;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+section {
+  padding: 20px;
+  background: white;
+  margin: 20px;
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+h1, h2 {
+  color: #004d66;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 15px 0;
+}
+
+table, th, td {
+  border: 1px solid #ccc;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+  background-color: #fdfdfd;
+}
+
+thead {
+  background-color: #e0f7fa;
+}
+# Financial Fraud in Guyana's Oil and Gas Economy
+
+This project explores the rise of financial fraud in Guyana's oil and gas industry, looking at the causes, examples, evidence, and proposed solutions. The project is built as a static website using HTML/CSS and designed for educational, journalistic, or civic engagement purposes.
+
+## 🔍 Features
+
+- Clean HTML layout with structured sections
+- Styled tables showing key fraud statistics
+- Recommendations for legal and institutional reforms
+- Easy to customize or expand
+
+## 📊 Sample Data (STRs)
+
+| Year | Suspicious Transactions | Value (GY$)     |
+|------|--------------------------|-----------------|
+| 2022 | 107                      | 1.96 Billion    |
+| 2023 | 180                      | 153.3 Billion   |
+
+## 🏗️ How to Use
+
+1. Clone the repository
+2. Open `index.html` in your browser
+3. Customize content and styles as needed
+
+## 📄 License
+
+This project is licensed under the MIT License.
