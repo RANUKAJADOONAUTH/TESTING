@@ -1,8 +1,7 @@
 # To determine the Risk of Financial Fraud in Small Businesses in Guyana 
 # Introduction
 The researcher aims to determine the extent of Financial Fraud in Small Businesses in Guyana arising from poor account practices.
-# Risk of Financial fraud in Guyana Small Businesses
-- Credit score cards are a common risk control method in the financial industry. It uses personal information and data submitted by credit card applicants to predict the probability of future defaults and credit card borrowings. The bank is able to decide whether to issue a credit card to the applicant. Credit scores can objectively quantify the magnitude of risk. 
+Credit score cards are a common risk control method in the financial industry. It uses personal information and data submitted by credit card applicants to predict the probability of future defaults and credit card borrowings. The bank is able to decide whether to issue a credit card to the applicant. Credit scores can objectively quantify the magnitude of risk. 
 - In this project we are trying to build Machine Learning model to predict if an applicant is 'good' or 'bad' client i.e if applicat is 'Risky' or 'Not'. 
 - Here 'Risk' == 'Yes' === 1 &amp; 'Risk' == 'No' === 0
 
