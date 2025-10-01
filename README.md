@@ -6,13 +6,13 @@ While oil can fuel development—building infrastructure, improving public servi
 This project examines what kinds of financial fraud are increasing in Guyana’s oil & gas sector, with case studies; identifies systemic vulnerabilities; evaluates existing legal and institutional frameworks; and proposes measures to reduce fraud and increase accountability.
 Types of Financial Fraud / Malpractice in Guyana Oil & Gas
 
-# Types of Financial Fraud / Malpractice in Guyana Oil & Gas 
-Type of Fraud	Description
-Cost Recovery Abuse	Oil companies inflate their expenses to reduce how much profit Guyana gets.
-Lack of Financial Transparency	Companies don't clearly report how much money they make or owe to Guyana.
-Corrupt Licensing Practices	Oil licenses are awarded unfairly, often to friends or political allies.
-Political Elite Capture	Powerful individuals benefit more from oil deals than the general public.
-Fake Training and Services	Fraudsters offer fake courses or services related to the oil sector.
+# Common Types of Financial Fraud in Guyana's Oil Sector
+1. Cost Recovery Abuse - Oil companies inflate their expenses to reduce how much profit Guyana gets.
+2. Lack of Financial Transparency - Companies don't clearly report how much money they make or owe to Guyana.
+3. Corrupt Licensing Practices - Oil licenses are awarded unfairly, often to friends or political allies.
+4. Political Elite Capture - Powerful individuals benefit more from oil deals than the general public.
+5. Fake Training and Services - Fraudsters offer fake courses or services related to the oil sector.
+   
 
 
 
